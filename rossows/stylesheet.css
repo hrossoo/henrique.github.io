@@ -1,0 +1,89 @@
+body {
+	margin: 50px;
+	font-family: Tahoma;
+	background-color: #000000;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+#navigationOne { 
+	padding:10px 10px 10px 32px;
+	background: url( page_red.png ) no-repeat 8px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#navigationTwo { 
+	padding:10px 10px 10px 32px;
+	background: url( page.png ) no-repeat 8px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#headlineOne { 
+	padding:10px 10px 10px 32px;
+	background: url( brick.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#headlineTwo { 
+	padding:10px 10px 10px 32px;
+	background: url( box.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#headlineThree { 
+	padding:10px 10px 10px 32px;
+	background: url( briefcase.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#headlineFour { 
+	padding:10px 10px 10px 32px;
+	background: url( bricks.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#infoOne { 
+	padding:10px 10px 10px 32px;
+	background: url( coins.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#infoTwo { 
+	padding:10px 10px 10px 32px;
+	background: url( comment.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#infoThree { 
+	padding:10px 10px 10px 32px;
+	background: url( exclamation.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#infoFour { 
+	padding:10px 10px 10px 32px;
+	background: url( emoticon_wink.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#statsMale { 
+	padding:10px 10px 10px 32px;
+	background: url( male.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+#statsFemale { 
+	padding:10px 10px 10px 32px;
+	background: url( female.png ) no-repeat 6px 8px;
+	font-size:12px;
+	color:#FFFFFF;
+}
+acronym {
+	border-bottom: 1px dotted #999;
+	cursor: help;
+}
+a {
+	color: #FFFFFF;
+}
+a:hover {
+	color: #28E;
+}

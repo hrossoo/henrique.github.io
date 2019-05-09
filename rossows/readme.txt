@@ -1,0 +1,1 @@
+This template is a minimalistic template by Maximilian Vesper of VareSide.com. By using this template on the web you can replace all contents and titles by your own except the copyright message and the author meta-tag. These have to remain intact. You are also not allowed to resell, redistribute or share this work without permission of the author.
